@@ -6,7 +6,7 @@
 > Extract the central bank policy rates and the exchange rates of main countries
 
 <p align="center"> 
-<img src="https://github.com/OpenXAIProject/Real-time-Financial-Data/blob/master/result1.png"  width="400">
+<img src="https://github.com/OpenXAIProject/Real-time-Financial-Data/blob/master/result1.png"  width="350">
 </p>
 
 ## Requirements 
